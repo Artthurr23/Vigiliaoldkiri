@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: 645b693e0b256884ebb423b54ead1741
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -616370864114136673
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_0"
+  - first:
+      213: 894756425334559431
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_1"
+  - first:
+      213: -3983277022383567275
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_2"
+  - first:
+      213: -5652653537827971634
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_3"
+  - first:
+      213: -7560373352606884891
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_4"
+  - first:
+      213: -3827954703915953586
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_5"
+  - first:
+      213: -2731787622036236126
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_6"
+  - first:
+      213: 4445935145935045321
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_7"
+  - first:
+      213: -6677072764686070179
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_8"
+  - first:
+      213: 6622331777151006480
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_9"
+  - first:
+      213: -6900308512328355311
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_10"
+  - first:
+      213: -5886957104891096865
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_11"
+  - first:
+      213: -1806541505237154609
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_12"
+  - first:
+      213: -6231985315765768993
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_13"
+  - first:
+      213: -1930606611335161996
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_14"
+  - first:
+      213: 1515091500326844598
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_15"
+  - first:
+      213: 3508858548670363030
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_16"
+  - first:
+      213: 3470756497883183102
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_17"
+  - first:
+      213: 2232052497603782683
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_18"
+  - first:
+      213: -9026287665456431710
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_19"
+  - first:
+      213: -5271338178174133425
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_20"
+  - first:
+      213: 8782478066206684764
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_21"
+  - first:
+      213: 1746058960821911733
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_22"
+  - first:
+      213: -6288158713871626675
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_23"
+  - first:
+      213: 4711724096162817726
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_24"
+  - first:
+      213: 570158729932817283
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_25"
+  - first:
+      213: 7024537817205457707
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_26"
+  - first:
+      213: -2236703693958136925
+    second: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_27"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_0"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 310
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99839af6f53277f0800000000000000
+      internalID: -616370864114136673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_1"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 312
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2909c6a30da6c00800000000000000
+      internalID: 894756425334559431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_2"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 312
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e0ad607ae88b8c0800000000000000
+      internalID: -3983277022383567275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_3"
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 314
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd986f6e8dbd81b0800000000000000
+      internalID: -5652653537827971634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_4"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 314
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb998c0e78241790800000000000000
+      internalID: -7560373352606884891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_5"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 218
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42ddc86a7f50eac0800000000000000
+      internalID: -3827954703915953586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_6"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 218
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a898b2a1adb61ad0800000000000000
+      internalID: -2731787622036236126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_7"
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 219
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c202eba57223bd30800000000000000
+      internalID: 4445935145935045321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_8"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 220
+        width: 101
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e837972b54653a0800000000000000
+      internalID: -6677072764686070179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_9"
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 220
+        width: 105
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017fdd92aaf37eb50800000000000000
+      internalID: 6622331777151006480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_10"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 178
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112701aa7fd2d30a0800000000000000
+      internalID: -6900308512328355311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_11"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 119
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0110b14b35d4ea0800000000000000
+      internalID: -5886957104891096865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_12"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 120
+        width: 108
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4075c8210ede6e0800000000000000
+      internalID: -1806541505237154609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_14"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 120
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477d85a048b1535e0800000000000000
+      internalID: -1930606611335161996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_15"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 122
+        width: 115
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8f13731bfa60510800000000000000
+      internalID: 1515091500326844598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_16"
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 120
+        width: 107
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695f6906248f1b030800000000000000
+      internalID: 3508858548670363030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_17"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 164
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7b43e55aa9a2030800000000000000
+      internalID: 3470756497883183102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_18"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 164
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1862bfabe7d9fe10800000000000000
+      internalID: 2232052497603782683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_20"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 148
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bd9fe0bd178d6b0800000000000000
+      internalID: -5271338178174133425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_23"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 23
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e876047f8fbb8a0800000000000000
+      internalID: -6288158713871626675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_24"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 22
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6ee670a18636140800000000000000
+      internalID: 4711724096162817726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_25"
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 21
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383cb33185c99e700800000000000000
+      internalID: 570158729932817283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_26"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 23
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2344d95deb2c7160800000000000000
+      internalID: 7024537817205457707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_27"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 22
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab32d547d1a5f0e0800000000000000
+      internalID: -2236703693958136925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c92c4442d54ab0f4b9148ab701c439c6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_0": -616370864114136673
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_1": 894756425334559431
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_10": -6900308512328355311
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_11": -5886957104891096865
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_12": -1806541505237154609
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_14": -1930606611335161996
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_15": 1515091500326844598
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_16": 3508858548670363030
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_17": 3470756497883183102
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_18": 2232052497603782683
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_2": -3983277022383567275
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_20": -5271338178174133425
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_23": -6288158713871626675
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_24": 4711724096162817726
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_25": 570158729932817283
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_26": 7024537817205457707
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_27": -2236703693958136925
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_3": -5652653537827971634
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_4": -7560373352606884891
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_5": -3827954703915953586
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_6": -2731787622036236126
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_7": 4445935145935045321
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_8": -6677072764686070179
+      "Sprite_de_Sirene_Vermelha_em_Anima\xE7\xE3o-removebg-preview_9": 6622331777151006480
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
