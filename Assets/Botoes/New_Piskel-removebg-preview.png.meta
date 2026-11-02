@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -90,7 +90,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -141,127 +141,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: New_Piskel-removebg-preview_0
+      name: BotaoCam1
       rect:
         serializedVersion: 2
-        x: 1
-        y: 287
-        width: 126
-        height: 71
+        x: 2
+        y: 288
+        width: 124
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9fe027075b3febbd0800000000000000
-      internalID: -2612382773227155719
+      spriteID: 6438d3e2489a9d34dbc60ed1e8938aa0
+      internalID: 1484249007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Piskel-removebg-preview_1
+      name: BotaoCam2
       rect:
         serializedVersion: 2
-        x: 129
-        y: 287
-        width: 126
-        height: 71
+        x: 130
+        y: 288
+        width: 124
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 90632415c5bdb4920800000000000000
-      internalID: 2975713168355112457
+      spriteID: 07d79e5b90918df40a37efbaf9b04e46
+      internalID: -604033038
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Piskel-removebg-preview_2
+      name: BotaoCam3
       rect:
         serializedVersion: 2
-        x: 1
-        y: 159
-        width: 126
-        height: 71
+        x: 2
+        y: 160
+        width: 124
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0004e92432fc57290800000000000000
-      internalID: -7893175021548453888
+      spriteID: 5dd6fbdf9b5c94c43bb974f4fc9d926c
+      internalID: -636086555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Piskel-removebg-preview_3
+      name: BotaoCam4
       rect:
         serializedVersion: 2
-        x: 129
-        y: 159
-        width: 126
-        height: 71
+        x: 130
+        y: 160
+        width: 124
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5cf42ccc1f4969e10800000000000000
-      internalID: 2204112833887752133
+      spriteID: 3c75d292c70b61749a51be8ed1b1da0c
+      internalID: 1100573305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Piskel-removebg-preview_4
+      name: BotaoCam5
       rect:
         serializedVersion: 2
-        x: 1
-        y: 31
-        width: 126
-        height: 71
+        x: 2
+        y: 32
+        width: 124
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ffdeaa14b950215a0800000000000000
-      internalID: -6552168343490859521
+      spriteID: b2da81cc24a19914783186e9190589ca
+      internalID: -2076672904
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Piskel-removebg-preview_5
+      name: BotaoCam6
       rect:
         serializedVersion: 2
-        x: 129
-        y: 31
-        width: 126
-        height: 71
+        x: 130
+        y: 32
+        width: 124
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c51eb2b4cbe3e3f30800000000000000
-      internalID: 4557148851381461340
+      spriteID: 27d7a2cfae8fa1c4caa0960396313d8d
+      internalID: 1095263676
       vertices: []
       indices: 
       edges: []
@@ -269,14 +269,20 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b15e02d35f0b9c64eb7ce6faed6c93aa
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BotaoCam1: 1484249007
+      BotaoCam2: -604033038
+      BotaoCam3: -636086555
+      BotaoCam4: 1100573305
+      BotaoCam5: -2076672904
+      BotaoCam6: 1095263676
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
